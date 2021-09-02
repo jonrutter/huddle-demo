@@ -1,6 +1,8 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
+import HeroSection from 'components/layout/HeroSection';
+
 const IndexPage = () => {
   return (
     <div>
@@ -12,6 +14,8 @@ const IndexPage = () => {
         />
         <meta name="author" content="Jon Rutter" />
       </Helmet>
+      <HeroSection />
+      <main></main>
     </div>
   );
 };
