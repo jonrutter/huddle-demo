@@ -16,12 +16,12 @@ const HeroSection = () => {
         <div className="w-full max-w-screen-xl mx-auto">
           <Header />
           {/* hero grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
-            <section className="text-dark max-w-lg text-center md:text-left mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16 lg:items-center lg:justify-items-start">
+            <section className="text-dark max-w-lg text-center md:text-left mx-auto md:mx-0">
               <h1 className="text-3xl md:text-4xl font-bold font-heading mb-8">
                 Build The Community Your Fans Will Love
               </h1>
-              <p className="mb-8">
+              <p className="mb-8 text-lg">
                 Huddle re-imagines the way we build communities. You have a
                 voice, but so does your audience. Create connections with your
                 users as you engage in genuine discussion.
