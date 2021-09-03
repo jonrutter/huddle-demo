@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.yourdomain.tld',
+    siteUrl: 'https://jonrutter-huddle-landing-page.netlify.app/',
     title: 'Huddle Landing Page',
   },
   plugins: [
@@ -16,6 +16,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#FF52BF`,
         display: `standalone`,
+        icon: 'src/images/icon.png',
       },
     },
   ],
