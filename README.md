@@ -1,11 +1,3 @@
-# Huddle Landing Page
-
-![Preview of the Huddle Landing Page project](./github/preview.png)
-
-Demo landing page for a fictional software company. Built with Gatsby and Tailwind CSS.
-
-[See it live](https://jonrutter-huddle-landing-page.netlify.app/)
-
 # Huddle - Demo Landing Page
 
 ![Netlify Status](https://api.netlify.com/api/v1/badges/32e0bd7f-965b-4ed0-8fab-64dcfc2e28fa/deploy-status)
