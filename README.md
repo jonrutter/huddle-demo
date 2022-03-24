@@ -22,7 +22,7 @@ This is a demo landing page for a fictional software company, Huddle.
 
 ## Description
 
-I built this project as part of FrontEnd Mentor's front-end challenges. The site is a demo landing page for a fictitious web analytics company, Shortly.
+I built this project as part of FrontEnd Mentor's front-end challenges. The site is a demo landing page for a fictitious web analytics company, Huddle.
 
 ![Preview of the Huddle Landing Page project](./github/preview-main.png)
 
