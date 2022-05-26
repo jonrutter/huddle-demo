@@ -2,9 +2,9 @@
 
 ![Netlify Status](https://api.netlify.com/api/v1/badges/32e0bd7f-965b-4ed0-8fab-64dcfc2e28fa/deploy-status)
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://jonrutter-huddle-landing-page.netlify.app/)
-[![Current Version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/jonrutter/huddle-landing-page)
-[![GitHub Stars](https://img.shields.io/github/stars/jonrutter/huddle-landing-page.svg)](https://github.com/jonrutter/huddle-landing-page/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/jonrutter/huddle-landing-page.svg)](https://github.com/jonrutter/huddle-landing-page/issues)
+[![Current Version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/rutterjt/huddle-landing-page)
+[![GitHub Stars](https://img.shields.io/github/stars/rutterjt/huddle-landing-page.svg)](https://github.com/rutterjt/huddle-landing-page/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/rutterjt/huddle-landing-page.svg)](https://github.com/rutterjt/huddle-landing-page/issues)
 
 This is a demo landing page for a fictional software company, Huddle.
 
@@ -49,9 +49,9 @@ Preview the live demo: [https://jonrutter-huddle-landing-page.netlify.app/](http
 
 **Jon Rutter**
 
-- [GitHub Profile](https://www.github.com/jonrutter)
-- [Email](mailto:contact@jonrutter.com)
-- [Website](https://www.jonrutter.com)
+- [GitHub Profile](https://www.github.com/rutterjt)
+- [Email](mailto:contact@jonrutter.io)
+- [Website](https://www.jonrutter.io)
 
 ## License
 
