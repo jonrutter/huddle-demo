@@ -1,6 +1,7 @@
 # Huddle - Demo Landing Page
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/32e0bd7f-965b-4ed0-8fab-64dcfc2e28fa/deploy-status)
+<!-- ![Netlify Status](https://api.netlify.com/api/v1/badges/32e0bd7f-965b-4ed0-8fab-64dcfc2e28fa/deploy-status) -->
+
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://jonrutter-huddle-landing-page.netlify.app/)
 [![Current Version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/jonrutter/huddle-demo)
 [![GitHub Stars](https://img.shields.io/github/stars/jonrutter/huddle-demo.svg)](https://github.com/jonrutter/huddle-demo/stargazers)
