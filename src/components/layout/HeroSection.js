@@ -1,7 +1,7 @@
 import React from 'react';
 
 // images
-import Image from 'images/illustration-mockups.svg';
+import Image from 'assets/images/illustration-mockups.svg';
 
 // components
 import Header from 'components/layout/Header';
