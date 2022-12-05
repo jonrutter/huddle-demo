@@ -2,12 +2,12 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 // logo
-import Logo from 'images/footer-logo.svg';
+import Logo from 'assets/images/footer-logo.svg';
 
 // icons
-import IconEmail from 'images/icon-email.svg';
-import IconLocation from 'images/icon-location.svg';
-import IconPhone from 'images/icon-phone.svg';
+import IconEmail from 'assets/images/icon-email.svg';
+import IconLocation from 'assets/images/icon-location.svg';
+import IconPhone from 'assets/images/icon-phone.svg';
 import { FaInstagram, FaFacebookF, FaTwitter } from 'react-icons/fa';
 
 // components

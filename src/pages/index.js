@@ -2,9 +2,9 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 
 // images
-import Grow from 'images/illustration-grow-together.svg';
-import Conversation from 'images/illustration-flowing-conversation.svg';
-import Users from 'images/illustration-your-users.svg';
+import Grow from 'assets/images/illustration-grow-together.svg';
+import Conversation from 'assets/images/illustration-flowing-conversation.svg';
+import Users from 'assets/images/illustration-your-users.svg';
 
 // components
 import HeroSection from 'components/layout/HeroSection';

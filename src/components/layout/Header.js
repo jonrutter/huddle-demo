@@ -1,7 +1,7 @@
 import React from 'react';
 
 // logo
-import Logo from 'images/logo.svg';
+import Logo from 'assets/images/logo.svg';
 
 // components
 import WhiteButton from 'components/buttons/WhiteButton';

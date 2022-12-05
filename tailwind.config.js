@@ -9,8 +9,8 @@ module.exports = {
         dark: '#00252E',
       },
       backgroundImage: {
-        'hero-desktop': `url('images/bg-hero-desktop.svg')`,
-        'hero-mobile': `url('images/bg-hero-mobile.svg')`,
+        'hero-desktop': `url('assets/images/bg-hero-desktop.svg')`,
+        'hero-mobile': `url('assets/images/bg-hero-mobile.svg')`,
       },
       fontFamily: {
         sans: ['"Open Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
