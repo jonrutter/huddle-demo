@@ -17,7 +17,13 @@ const Footer = () => {
   return (
     <div className="bg-dark pt-40 md:pt-48 px-6 pb-16 text-light ">
       <footer className="w-full max-w-screen-xl mx-auto">
-        <img src={Logo} alt="Huddle" className="max-w-200 mb-10" />
+        <img
+          src={Logo}
+          alt="Huddle"
+          width="240"
+          height="39"
+          className="w-full h-auto max-w-[200px] mb-10"
+        />
         <div className="w-full mx-auto grid grid-cols-1 lg:grid-cols-3 gap-12">
           {/* contact: desktop left / mobile top */}
           <address

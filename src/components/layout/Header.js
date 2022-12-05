@@ -9,7 +9,11 @@ import WhiteButton from 'components/buttons/WhiteButton';
 const Header = () => {
   return (
     <header className="flex justify-between flex-wrap items-center mb-16 gap-4">
-      <img src={Logo} alt="Huddle" className="max-w-124 md:max-w-200 h-auto" />
+      <img
+        src={Logo}
+        alt="Huddle"
+        className="max-w-[124px] md:max-w-[200px] h-auto"
+      />
       <WhiteButton>Try It Free</WhiteButton>
     </header>
   );

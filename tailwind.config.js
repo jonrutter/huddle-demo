@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}'],
+  content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
       colors: {
@@ -11,10 +11,6 @@ module.exports = {
       backgroundImage: {
         'hero-desktop': `url('images/bg-hero-desktop.svg')`,
         'hero-mobile': `url('images/bg-hero-mobile.svg')`,
-      },
-      maxWidth: {
-        200: '200px',
-        124: '124px',
       },
       fontFamily: {
         sans: ['"Open Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
@@ -30,9 +26,6 @@ module.exports = {
         top: '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05), -5px 0px 10px rgba(0, 0, 0, 0.05)',
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [],
 };
