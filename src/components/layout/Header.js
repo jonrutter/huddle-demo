@@ -12,6 +12,8 @@ const Header = () => {
       <img
         src={Logo}
         alt="Huddle"
+        width="240"
+        height="39"
         className="max-w-[124px] md:max-w-[200px] h-auto"
       />
       <WhiteButton>Try It Free</WhiteButton>

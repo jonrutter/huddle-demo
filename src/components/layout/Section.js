@@ -11,13 +11,7 @@ const Section = ({ title, image, reverse, children }) => {
           {children}
         </p>
       </div>
-      <div className={reverse ? 'order-1' : 'md:order-2'}>
-        <img
-          src={image}
-          alt="Illustration of people together, enjoying Huddle"
-          className="w-full max-w-sm mx-auto"
-        />
-      </div>
+      <div className={reverse ? 'order-1' : 'md:order-2'}>{image}</div>
     </section>
   );
 };
