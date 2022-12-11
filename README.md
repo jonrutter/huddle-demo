@@ -1,7 +1,7 @@
 # Huddle - Demo Landing Page
 
 [![Production deployment](https://img.shields.io/github/deployments/jonrutter/huddle-demo/production?label=vercel&logo=vercel&logoColor=white)](https://jonrutter-huddle.vercel.app/)
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://jonrutter-huddle-landing-page.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://huddle-demo-jonrutter.vercel.app/)
 [![Current Version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/jonrutter/huddle-demo)
 [![GitHub Stars](https://img.shields.io/github/stars/jonrutter/huddle-demo.svg)](https://github.com/jonrutter/huddle-demo/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/jonrutter/huddle-demo.svg)](https://github.com/jonrutter/huddle-demo/issues)
@@ -38,7 +38,7 @@ The site features a fully mobile responsive design.
 
 ## Live Demo
 
-Preview the live demo: [https://jonrutter-huddle-landing-page.netlify.app/](https://jonrutter-huddle-landing-page.netlify.app/)
+Preview the live demo: [https://huddle-demo-jonrutter.vercel.app/](https://huddle-demo-jonrutter.vercel.app/)
 
 ## Built with
 
